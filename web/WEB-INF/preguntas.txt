@@ -1,0 +1,16 @@
+¿Punto fuertes de la  clase Recon?
+Larga Distanci,Marcado Lase,Cuerpo a cuerpo,Combate cercano,
+¿Arma principal del Recon?
+CS-LR4,P226,M67 FRAG,Bayoneta,
+¿Modos de juegos ideales de la clse Recon?
+Rush,Conquista,Obliteration,Squad
+¿Punto fuerte de la clase ingeniero?
+Destruir vehiculos,larga distancia,Cuerpo a cuerpo,explosiones,
+¿Equipo de inicio de la clase ingeniero?
+MX4,P226,M67,MBT LAW,
+¿Punto fuerte de la clase de Apoyo?
+Fuego supresivo,Curar/revivir compañeros,Arma Principal Fuerte,Habilidad contra vehiculos,
+¿Equipo de inicio de la clase de Apoyo?
+U-100 MK5,P226,M67 FRAG,XM25 AIRBURST,
+¿Clase de Asalto modo de juego ideal?
+Domination,Squad Death,Team Death Match,

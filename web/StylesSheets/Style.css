@@ -1,0 +1,219 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 29, 2016, 5:45:19 PM
+    Author     : Diego
+*/
+body{
+    background-color: #ffd310;
+}
+#myNavbar ul li .closebtn {
+    padding-left: 10px;
+    color: #888;
+    font-weight: bold;
+    float: right;
+    font-size: 20px;
+    cursor: pointer;
+}
+iframe{
+    width: 100%;
+    height: 600px;
+    border-collapse: collapse;
+    border: 0px transparent;
+    
+}
+#myNavbar ul li .closebtn:hover {
+    color: #000;
+}
+#myNavbar ul li .chip {
+    margin-top: 4px;
+    display: inline-block;
+    padding: 0 25px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+}
+#myNavbar ul li .chip img {
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.navbar {
+    margin-top:5px;
+}.navbar .navbar-header .navbar-brand{
+    color: greenyellow;
+}
+.navbar #myNavbar li a{ 
+    color:white;
+}
+#myNavbar li a:hover{ 
+    color:orange;
+}
+.dropdown-menu{
+    background-color: orange;
+    border-radius: 5px;
+}
+.btn{
+    margin: 7px;
+}
+.carousel-inner img { 
+    width: 100%; /* Set width to 100% */
+    margin: auto;
+}
+.navbar-brand{
+    color:white;
+    font-style: italic;
+}
+.navbar-brand:active{
+    color:white;
+}
+.certifLogo{
+    border: 10px solid transparent;
+    border-radius: 50px;
+    margin-bottom: 25px;
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+.carousel-inner p{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    background-color: #4f4f51;
+    border-radius: 50px;
+}
+h3{ padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: #2f2f2f;
+    border-radius: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+.col-md-6 img{
+    margin-left: 150px;
+}
+.col-md-6 h4, .col-md-6 h5{
+    font-style: italic;
+    color:greenyellow;
+}
+#cryengine, #frostbite{
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #4f4f51;
+    color:white;
+    padding: 15px;
+    border-radius: 15px;
+}
+#oferta{
+    margin-bottom: 40px;
+}
+#beneficio{
+    margin-bottom: 40px;
+}
+#empresa{
+    margin-bottom: 40px;
+}
+#galeria{
+    margin-bottom: 40px;
+}
+#contacto{
+    margin-bottom: 40px;
+}
+.col-md-4 img{
+    margin-top:5px;
+    margin-left: 25px; 
+    padding: 5px;
+    border-radius: 70px;
+    background-color: #414040;
+}
+.col-md-8{
+    margin-top: 15px;
+    background-color: #4f4f51;
+    color:honeydew;
+    border-radius: 15px;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+.col-md-8 p{
+    font-size: 18px;
+}
+.col-md-8 ul{
+    font-size: 18px;
+}
+#contacto table input{
+    border-radius: 15px;
+    color:black;
+    padding-left: 15px; 
+}
+#contacto table .btn{
+    border-radius: 15px;
+    color:white;
+    padding-left: 15px; 
+}
+#contacto table textarea{
+    border-radius: 10px;
+}
+#contacto .col-md-8 table{
+    width: 100%;
+}
+#contacto .col-md-8 table tr td{
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#empresa img{
+    background-color: white;
+}
+#beneficio ul{
+    list-style-type: none;
+}
+#beneficio img{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    margin:2px;
+}
+#beneficio img{
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    margin:2px;
+}
+#logger{
+    background-color: gray;
+    border-radius: 10px;
+    width: 22.5em;
+    height: 10em;
+    padding: 10px;
+    margin: 0px;
+    position:absolute;
+    left: 63.4em;
+    top: 3.7em;
+}
+#subLogger{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: white;
+}
+#subLogger input{
+    border-radius: 10px;
+}
+#subLogger .btn-success{
+    float:right;
+}
+table td button{
+    border: 1px black solid;
+}
